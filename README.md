@@ -10,6 +10,7 @@
 - <b>AWS (Updates to list in Process)</b>
 
 - <b>Microsoft Azure (Updates to list in Process)</b>
+   - [Create a Virtual Machine and Deploy a Web Server](https://github.com/owen-rich/AzureLab)
 
 - <b>Active Directory (Updates to list in Process)</b>
 
