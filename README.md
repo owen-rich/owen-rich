@@ -7,7 +7,13 @@
   - [Design a Network Architecture with Load Balancing](https://github.com/owen-rich/Network-Security/blob/main/network-architecture-load-balancing.drawio.png)
   - [Design a Secure Network](https://github.com/owen-rich/Network-Security/blob/main/secure%20network%20design.drawio.png)
 
-- <b>AWS (Updates to list in Process)</b>
+- <b>AWS </b>
+  - [AWS Account Creation and EC2 Instance Setup](https://github.com/owen-rich/aws-instance-setup)
+  - [IAM Implementation](https://github.com/owen-rich/aws-lab/tree/main)
+  - [Creating Amazon Security Groups](https://github.com/owen-rich/aws-lab2)
+  - [Implementing Amazon Inspector](https://github.com/owen-rich/aws-inspector)
+  - [AWS WAF Configuration](https://github.com/owen-rich/aws-waf)
+
 
 - <b>Microsoft Azure (Updates to list in Process)</b>
    - [Create a Virtual Machine and Deploy a Web Server](https://github.com/owen-rich/AzureLab)
