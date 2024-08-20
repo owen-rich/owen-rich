@@ -7,20 +7,23 @@
   - [Design a Network Architecture with Load Balancing](https://github.com/owen-rich/Network-Security/blob/main/network-architecture-load-balancing.drawio.png)
   - [Design a Secure Network](https://github.com/owen-rich/Network-Security/blob/main/secure%20network%20design.drawio.png)
 
-- <b>AWS </b>
+- <b>AWS</b>
   - [AWS Account Creation and EC2 Instance Setup](https://github.com/owen-rich/aws-instance-setup)
   - [IAM Implementation](https://github.com/owen-rich/aws-lab/tree/main)
   - [Creating Amazon Security Groups](https://github.com/owen-rich/aws-lab2)
   - [Implementing Amazon Inspector](https://github.com/owen-rich/aws-inspector)
   - [AWS WAF Configuration](https://github.com/owen-rich/aws-waf)
 
+- <b>Microsoft Security (Updates to list in Process)</b>
+   - [Windows Server Configuration](https://github.com/owen-rich/win-server-config)
+   - [Windows Server: DNS Configuration](https://github.com/owen-rich/win-server-dns)
 
-- <b>Microsoft Azure (Updates to list in Process)</b>
+- <b>Microsoft Azure</b>
    - [Create a Virtual Machine and Deploy a Web Server](https://github.com/owen-rich/AzureLab)
 
-- <b>Active Directory (Updates to list in Process)</b>
-
 - <b>PowerShell (Updates to list in Process)</b>
+
+- <b>Linux Security (Updates to list in Process)</b>
 
 - <b>Python (Updates to list in Process)</b>
 
