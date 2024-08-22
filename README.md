@@ -22,6 +22,8 @@
    - [Create a Virtual Machine and Deploy a Web Server](https://github.com/owen-rich/AzureLab)
 
 - <b>PowerShell (Updates to list in Process)</b>
+   - [PowerShell Active Directory Management](https://github.com/owen-rich/powershell-lab1)
+   - [Remote PowerShell Commands](https://github.com/owen-rich/powershell-lab2)
 
 - <b>Linux Security (Updates to list in Process)</b>
 
